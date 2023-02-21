@@ -1,3 +1,7 @@
 Article on Parquet Data Type: https://www.databricks.com/glossary/what-is-parquet
 Article on Hadoop by Databricks: https://www.databricks.com/glossary/hadoop
 Parquet + Spark in depth Video: https://www.databricks.com/session/spark-parquet-in-depth?_gl=1*w7phad*_ga*MTg0ODM0NzM1MS4xNjc0NTQxNTgz*_ga_PQSEQ3RZQC*MTY3NzAwMzY5Ni43LjEuMTY3NzAwMzcyNy4yOS4wLjA.&_ga=2.66747500.331123224.1677003697-1848347351.1674541583
+Introduction to Data Lakes: https://www.databricks.com/discover/data-lakes/introduction
+Article on Map Reduce: https://www.databricks.com/glossary/mapreduce
+Introduction to Data Warehouse: https://www.databricks.com/glossary/data-warehouse
+Why choose cloud storage like S3 over HDFS: Top 5 Reasons for Choosing S3 over HDFS
